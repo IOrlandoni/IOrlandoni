@@ -1,5 +1,5 @@
 ## Hi there 👋
-[https:///convert.bot/](https:///convert.bot/)
+[https:///convert.bot/](https://convert.bot/)
 
 
 <!--
